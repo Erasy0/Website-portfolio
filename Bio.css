@@ -225,7 +225,7 @@ section{
  
 
 .circle-image{
-  background-image: url("C:/Users/shind/Desktop/Website Portofolio file/erasyFace.jpg");
+  background-image: url("erasyFace.jpg");
   background-size:200px;
   background-size: cover;
   background-position: center;
@@ -269,7 +269,7 @@ section{
   position: absolute;
   height: 230px;
   width: 230px;
-  background-image: url("C:/Users/shind/Desktop/Website Portofolio file/ui-ux.jpg");
+  background-image: url("ui-ux.jpg");
   background-size: cover;
   top: 48%;
   left: 220%;
@@ -287,7 +287,7 @@ section{
   position: absolute;
   height: 230px;
   width: 230px;
-  background-image: url("C:/Users/shind/Desktop/Website Portofolio file/programming.jpg");
+  background-image: url("programming.jpg");
   background-size: cover;
   top: 48%;
   left: 400%;
@@ -305,7 +305,7 @@ section{
   position: absolute;
   height: 230px;
   width: 230px;
-  background-image: url("C:/Users/shind/Desktop/Website Portofolio file/editing.jpg");
+  background-image: url("editing.jpg");
   background-size: cover;
   top: 190%;
   left: 220%;
@@ -323,7 +323,7 @@ section{
   position: absolute;
   height: 230px;
   width: 230px;
-  background-image: url("C:/Users/shind/Desktop/Website Portofolio file/bulb.jpg");
+  background-image: url("bulb.jpg");
   background-size: 226px;
   top: 190%;
   left: 400%;
